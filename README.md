@@ -1,12 +1,18 @@
-# XV6 SCHEDULING POLCIES AND COPY-ON-WRITE FORK
+# CONCURRENCY AND NETWORKS
 
-The repository contains the combined parts of the mini projects 2 and 3 involving xv6.
+The repository contains parts of mini projects 2 and 3 on: 
+
+1. ### Concurrency
+    The `concurrency` section involves the extensive utilization of threads, semaphores, locks, and related mechanisms to manage simultaneous execution of tasks within a system.
+
+2. ### Networks
+   The `networks` section focus on the study and implementation of networking concepts, protocols, and technologies to facilitate communication and data exchange between different computing devices.   
+<br>
 
 The links to the project descriptions are given:
 - [Mini Project 2](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp2)
 - [Mini Project 3](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp3)
-
-
+<br> 
 
 # Specifications
 - The concurrency section has solutions to the following questions:
